@@ -1,7 +1,7 @@
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
-# --- KONFIGURASI ---
+# --- KONFIGURASI ----
 $intervalMenit = 15
 $logFile = "C:\aktifitasku\ActivityLog.csv"
 $global:history = @()
