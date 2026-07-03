@@ -1,5 +1,5 @@
 # Aktifitasku
-Pencatat aktivitas untuk pengisian timesheet
+# Pencatat aktivitas untuk data pengisian timesheet
 
 
 1. buat folder C:\aktifitasku
