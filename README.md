@@ -13,3 +13,8 @@ C:\aktifitasku\aktifitasku-v1.0.yymmdd.ps1
 
 Aplikasi akan berjalan di Terminal dan setiap 15 menit, sebuah popup dialog.
 File hasilnya (ActivityLog.csv) akan disimpan di folder C:\aktifitasku
+
+
+<img width="1174" height="383" alt="image" src="https://github.com/user-attachments/assets/0cd38c48-2347-41e2-9eac-f9fa80193aea" />
+<img width="725" height="284" alt="image" src="https://github.com/user-attachments/assets/51f8e331-4757-4192-bbe5-7be576726573" />
+
