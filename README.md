@@ -6,10 +6,12 @@
 2. copy aktifitasku-v1.0.yymmdd.ps1 ke C:\aktifitasku
 3. buka PowerShell prompt
 4. jalankan perintah 
-Unblock-File -Path "C:\aktifitasku\aktifitasku-v1.0.yymmdd.ps1"
+
+    *Unblock-File -Path "C:\aktifitasku\aktifitasku-v1.0.yymmdd.ps1"*
 
 5. jalankan script dengan perintah
-C:\aktifitasku\aktifitasku-v1.0.yymmdd.ps1
+
+    *C:\aktifitasku\aktifitasku-v1.0.yymmdd.ps1*
 
 Aplikasi akan berjalan di Terminal dan setiap 15 menit, sebuah popup dialog akan tampil.
 File hasilnya (ActivityLog.csv) akan disimpan di folder C:\aktifitasku
