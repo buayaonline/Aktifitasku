@@ -1,5 +1,5 @@
 # Aktifitasku
-Pencatat aktivitas untuk data pengisian timesheet
+## Pencatat aktivitas untuk data pengisian timesheet
 
 
 1. buat folder C:\aktifitasku
@@ -11,7 +11,7 @@ Unblock-File -Path "C:\aktifitasku\aktifitasku-v1.0.yymmdd.ps1"
 5. jalankan script dengan perintah
 C:\aktifitasku\aktifitasku-v1.0.yymmdd.ps1
 
-Aplikasi akan berjalan di Terminal dan setiap 15 menit, sebuah popup dialog.
+Aplikasi akan berjalan di Terminal dan setiap 15 menit, sebuah popup dialog akan tampil.
 File hasilnya (ActivityLog.csv) akan disimpan di folder C:\aktifitasku
 
 
